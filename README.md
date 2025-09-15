@@ -43,9 +43,7 @@ The analysis revealed several critical insights:
 
 ## Dashboard & Visualization
 
-The Power BI dashboard provides a dynamic and interactive view of the key findings. A screenshot of the final dashboard is included below:
-
-![Power BI Dashboard Preview](link_to_your_dashboard_image.png)
+The Power BI dashboard provides a dynamic and interactive view of the key findings.
 
 ---
 
